@@ -1,1 +1,1 @@
-# Python_Advanced_Assignmenys
+# Python_Advanced_Assignments solution
